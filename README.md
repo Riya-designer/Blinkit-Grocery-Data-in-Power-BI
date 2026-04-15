@@ -180,19 +180,8 @@ From this analysis, we discovered:
 
 ---
 
-# 🎤 2-Minute Interview Summary (Bonus for You)
+# 🎤 2-Minute Summary
 
 You can say this in interviews:
 
 > “In my Blinkit analysis project, I analyzed sales, customer ratings, and inventory distribution using Power BI. I found that while regular products generated higher revenue, low-fat products had better customer satisfaction. Outlet size and location significantly impacted sales, with medium and large outlets performing best. Based on insights, I suggested optimizing inventory per location, promoting healthier products, and improving new outlet performance.”
-
----
-
-If you want next level 🚀
-I can:
-
-* Turn this into **Power BI dashboard storytelling script**
-* Create **portfolio case study (UX + Data hybrid)**
-* Design **presentation slides with visuals & charts**
-
-Just tell me 👍
