@@ -1,8 +1,4 @@
 # Blinkit-Grocery-Data-in-Power-BI
-Great — I’ve reviewed your uploaded **Blinkit Analysis PPT**, and now I’ll convert it into a **strong data storytelling narrative** that you can directly use in your presentation, case study, or interview.
-
----
-
 # 📊 Blinkit Sales Analysis – Data Storytelling
 
 ## 🟡 1. Business Context (Opening Story)
