@@ -1,4 +1,3 @@
-# Blinkit-Grocery-Data-in-Power-BI
 # 📊 Blinkit Sales Analysis – Data Storytelling
 
 ## 🟡 1. Business Context (Opening Story)
